@@ -9,11 +9,13 @@ background-repeat: no-repeat;
 {text-align:left;
   float:right;
   width:380px;
-  
+
   font-family:"American Typewriter",serif, times;
 }
 
 ul li{
   text-decoration: none;
   color:purple;
+}
+h1 {color:white;
 }
