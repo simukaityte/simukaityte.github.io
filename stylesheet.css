@@ -6,5 +6,13 @@ head {
 body
 { background: url(http://pixabay.com/get/01cdc56a352ad11c69db/1424274290/notebook-581128.jpg?direct);
 background-size: 100% 100%;
-background-repeat: no-repeat; 
+background-repeat: no-repeat;
+}
+div
+{text-algin:center;
+  margin-right:30px;
+  margin-bottom:10px;
+  margin-top:20px;
+
+
 }
